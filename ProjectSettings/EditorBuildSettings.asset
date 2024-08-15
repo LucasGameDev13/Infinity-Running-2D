@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/tituloo.unity
+    guid: 2199efd88c07a4c4b81001acd70f9342
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 392061fba370660469ef1329feb8b7dc
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: cf92c0f485419354ca2a9a4523161e87
+  m_configObjects: {}
